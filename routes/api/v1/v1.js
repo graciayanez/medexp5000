@@ -5,7 +5,7 @@ require('./headerVerifyMiddleware');
 
 //const midlewar = require('./headerVerifyMiddleware');
 
-//*****routes*****
+//*****routes******
 const pacientesRoutes = require('./pacientes/pacientes');
 const expedientesRoutes = require('./expedientes/expedientes');
 
